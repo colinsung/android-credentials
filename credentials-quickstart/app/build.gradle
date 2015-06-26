@@ -15,7 +15,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.google.example.credentialsbasic"
+        applicationId "com.ccc.example.credentialsbasic"
         minSdkVersion 17
         targetSdkVersion 22
         versionCode Integer.parseInt(buildTime())
